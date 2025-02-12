@@ -1,0 +1,18 @@
+.title{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;}
+
+.title-text{
+    margin: 0%;
+    padding: 0%;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 90px;
+    font-weight: 900;
+    line-height: 1.3;
+
+}

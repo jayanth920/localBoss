@@ -1,4 +1,4 @@
-import Header from "../../comp/Header/Header"
+import Header from "../../components/Header/Header"
 import "./MainPage.css"
 
 export default function MainPage() {

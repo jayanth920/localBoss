@@ -1,11 +1,18 @@
 #root {
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   text-align: center;
+  width: 100%;
+  height: 100%;
 }
 
 .app {
   margin: 0;
   padding: 0;
-  background: #fffdee;
+  /* width: 100vw;
+  height: 100vh; */
+  background: #fdfbea;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
